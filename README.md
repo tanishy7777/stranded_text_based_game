@@ -4,7 +4,7 @@ Source code is given in the `stranded_game.py` file.
 
 **IMP: Read the ingame instructions for a smooth experience**
 
-Also, This game was awarded 1st place in the text-based game competition at the Indian Institue of Technology Gandhingar, so hope you enjoy it :)
+Also, This game was awarded 1st place in the text-based game competition at the Indian Institue of Technology, Gandhingar so hope you enjoy it :)
 ![image](https://github.com/user-attachments/assets/51bd39a1-38d1-4d2a-9ab7-292806453cb8)
 
 ---------------------------------------------------------------------------------------------------
