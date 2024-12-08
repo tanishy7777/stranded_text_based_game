@@ -1,9 +1,8 @@
 ### Instructions to run the game:
-1. Download this repository and extract it.
+1. To download the exe, use this google drive [link](https://drive.google.com/drive/folders/1BQIlnqergzLWu_Sz8MPhPVVTkHBsRXeb), and extract it.
 2. Open the dist folder and click on the exe and wait for a few seconds.
    
 Source code is given in the `stranded_game.py` file.
-
 
 **IMP: Whenever something is being printed on the screen dont press other keys otherwise it will be registered as your input for the next choice**
 
