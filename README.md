@@ -1,10 +1,14 @@
-### Run the game:
-Download this repository and extract it, and then open the dist folder and click on the exe and wait for a few seconds
+### Instructions to run the game:
+1. Download this repository and extract it.
+2. Open the dist folder and click on the exe and wait for a few seconds.
+   
 Source code is given in the `stranded_game.py` file.
 
-**IMP: Read the ingame instructions for a smooth experience**
 
-Also, This game was awarded 1st place in the text-based game competition at the Indian Institue of Technology, Gandhingar so hope you enjoy it :)
+**IMP: Whenever something is being printed on the screen dont press other keys otherwise it will be registered as your input for the next choice**
+
+
+Also, This game was awarded the 1st place in the text-based game competition at the *Indian Institue of Technology, Gandhingar* so hope you enjoy it :)
 ![image](https://github.com/user-attachments/assets/51bd39a1-38d1-4d2a-9ab7-292806453cb8)
 
 ---------------------------------------------------------------------------------------------------
