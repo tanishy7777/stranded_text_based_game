@@ -7,7 +7,7 @@ Source code is given in the `stranded_game.py` file.
 **IMP: Whenever something is being printed on the screen dont press other keys otherwise it will be registered as your input for the next choice**
 
 
-Also, This game was awarded the 1st place in the text-based game competition at the *Indian Institue of Technology, Gandhingar* so hope you enjoy it :)
+Also, This game was awarded the 1st place in the text-based game competition at the *Indian Institue of Technology, Gandhinagar*. hope you enjoy it :)
 ![image](https://github.com/user-attachments/assets/51bd39a1-38d1-4d2a-9ab7-292806453cb8)
 
 ---------------------------------------------------------------------------------------------------
